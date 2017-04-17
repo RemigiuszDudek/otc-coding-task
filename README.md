@@ -14,10 +14,11 @@
 
 ### Throne succession rules
 In medieval times, rules of the male primogeniture were the most commonly used as rules for throne succession. 
-One assumption that is not captured in these rules is that if someone becomes a king he/she is a king life-long.
 1. The  throne is inherited by the King's son a his male offspring
 2. If King has no male offspring, it is female offspring that inherits the throne
 3. In case of having many sons/daughters a rule of age applies, it is always the oldest child that inherits the throne
+
+One assumption that is not captured in these rules is that if someone becomes a king he/she is a king life-long.
  
 ### Your task
 The goal of the task is to create model reflecting throne succession problem and implement KingSelector class that 
