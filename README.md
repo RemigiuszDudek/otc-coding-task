@@ -31,7 +31,7 @@ Please keep the solution as simple as possible. You do not need to involve files
 Together with the implementation you also need to write tests for the implementation. First you need to come up with
  a set of acceptance tests that you feel would be sufficient to prove that your solution works - the assumption is,
  that these tests would be run on demo session. Obviously acceptance tests does not cover all cases, hence
- they need to be backed up with other tests on other levels (unit, integration, system).
+ they need to be backed up with other tests on other levels (unit, integration, system). Whether you will use all levels of tests or only subset, it depends on your particular model/solution.
  
 ## Things to do to prepare for the UBS interview
  - ensure that your machine has a Java JDK installed on it (we are assuming Java 8 will be used)
