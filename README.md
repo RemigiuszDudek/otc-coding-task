@@ -21,8 +21,12 @@ In medieval times, rules of the male primogeniture were the most commonly used a
 One assumption that is not captured in these rules is that if someone becomes a king he/she is a king life-long.
  
 ### Your task
-The goal of the task is to create model reflecting throne succession problem and implement KingSelector class that 
- would accept information about king's dynasty and select the king according to male primogeniture rules.
+The goal of the task is to create model reflecting throne succession problem and implement `KingSelector` class. 
+The `KingSelector` class takes information about king's dynasty and returns information about a person that is the king at the moment of launching this algorithm. 
+
+The selection algorithm should be implemented according to male primogeniture rules.
+
+Please keep the solution as simple as possible. You do not need to involve files, REST, command line, etc. It is perfectly fine if tests use object builders to create Object representing king's dynasty and KingSelector takes this object.
 
 Together with the implementation you also need to write tests for the implementation. First you need to come up with
  a set of acceptance tests that you feel would be sufficient to prove that your solution works - the assumption is,
