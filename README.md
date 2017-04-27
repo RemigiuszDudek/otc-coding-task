@@ -26,7 +26,7 @@ The `KingSelector` class takes information about king's dynasty and returns info
 
 The selection algorithm should be implemented according to male primogeniture rules.
 
-Please keep the solution as simple as possible. You do not need to involve files, REST, command line, etc. It is perfectly fine if tests use object builders to create Object representing king's dynasty and KingSelector takes this object.
+Please keep the solution as simple as possible. You do not need to involve files, REST, command line, etc. It is perfectly fine if tests use object builders to create Object representing king's dynasty and `KingSelector` takes this object.
 
 Together with the implementation you also need to write tests for the implementation. First you need to come up with
  a set of acceptance tests that you feel would be sufficient to prove that your solution works - the assumption is,
