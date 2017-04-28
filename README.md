@@ -30,7 +30,7 @@ Please keep the solution as simple as possible. You do not need to involve files
 
 Together with the implementation you also need to write tests for the implementation. First you need to come up with
  a set of acceptance tests that you feel would be sufficient to prove that your solution works - the assumption is,
- that these tests would be run on demo session. Obviously acceptance tests does not cover all cases, hence
+ that these tests would be run on demo session. Obviously acceptance tests do not cover all cases, hence
  they need to be backed up with other tests on other levels (unit, integration, system). Whether you will use all levels of tests or only subset, it depends on your particular model/solution.
  
 ## Things to do to prepare for the UBS interview
@@ -73,8 +73,8 @@ Together with the implementation you also need to write tests for the implementa
  - we will additionally feedback to you whether we would like to take the process further
 
 ## Some hints
-If you are new to Gradle, it may be worth spending 10 minutes reading a high level summary.  We are using the Gradle
- Wrapper so `gradlew` from the command line should download everything you need.  Most modern IDEs support Gradle
+If you are new to Gradle please spend some time and familiarize with it. We are using the Gradle
+ Wrapper so `gradlew` from the command line should download everything you need. Most modern IDEs support Gradle
  projects.
 
-Please ensure that you are familiar with our values in the instructions project. They are important to us.
+Please ensure that you are familiar with our values presented above. They are important to us.
