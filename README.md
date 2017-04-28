@@ -77,4 +77,4 @@ If you are new to Gradle please spend some time and familiarize with it. We are 
  Wrapper so `gradlew` from the command line should download everything you need. Most modern IDEs support Gradle
  projects.
 
-Please ensure that you are familiar with our values above. They are important to us.
+Please ensure that you are familiar with our values presented above. They are important to us.
